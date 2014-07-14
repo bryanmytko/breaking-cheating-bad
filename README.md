@@ -1,4 +1,4 @@
-Breaking CLicking Bad
+Breaking Clicking Bad
 ========================================
 
 My friends were playing this: http://clickingbad.nullism.com/
