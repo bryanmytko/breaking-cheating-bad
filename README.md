@@ -1,6 +1,5 @@
-breaking_cheating_bad
-=====================
+Breaking CLicking Bad
+========================================
 
-Breaking Cheating Bad
-
-I didn't want to waste my time playing this game.
+My friends were playing this: http://clickingbad.nullism.com/
+I didn't want to waste my time playing it, so I made a Chrome extension to cheat, hard.
